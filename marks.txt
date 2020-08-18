@@ -1,0 +1,8 @@
+Crispen	Gari	1	78	87	56	100	82	78
+Morison	Jonh	2	100	66	96	100	83	98
+Dokas	Mario	3	68	77	96	100	72	98
+Cross	Marry	4	45	31	56	18	38	37
+Zipho	Sari	5	45	87	56	87	66	71
+Dion	Nario	6	68	75	99	99	71	99
+Crago	Peter	7	66	38	56	18	52	37
+Mark	Saro	8	8	87	56	87	47	71
